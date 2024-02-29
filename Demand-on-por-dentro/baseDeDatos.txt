@@ -1,0 +1,5 @@
+Utiliza las siguientes tablas:
+user, proyecto y mensaje. las 3 estan vinculadas entre si.
+Esto permite que cada user pueda tener mas de un proyecto asi como tambien
+poder acceder durante la navegacion del usuario logueado por la webapp 
+al listado de proyectos disponibles, filtrar por categorias, iniciar comunicacion con otro usuario
