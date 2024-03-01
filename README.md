@@ -60,4 +60,15 @@ Creemos en el poder de cada individuo para generar un impacto significativo. Dem
 
 ¡Disfruta del viaje en DemandOn, donde la creatividad se une a la acción y la colaboración es el corazón de la innovación!
 
+# Proyecto en Desarrollo
+
+Este proyecto aún está en desarrollo, por lo que durante la navegación podrías experimentar algunos errores, ya que estamos trabajando activamente en su mejora.
+
+## Acceso al Entorno de Pruebas
+
+Puedes acceder al entorno de pruebas del proyecto [aquí](https://mcvipnocode.bubbleapps.io/version-test/login?v=login).
+
+**Nota:** Asegúrate de estar utilizando la versión más reciente de tu navegador y ten en cuenta que algunos errores pueden surgir debido al estado de desarrollo actual del proyecto.
+
+¡Agradecemos tu comprensión y paciencia mientras trabajamos en mejorar la experiencia del usuario!
 
